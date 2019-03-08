@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(90deg, #e74292 0%, #53e0bc 100%);
+}
+
+.team-box {
+  border: 1px solid #e5e5e5;
+  padding: 10px;
+}
+.team-box:hover {
+  border: 3px solid #e5e5e5;
+}
+.team-img img {
+  border: 3px solid #e0e0e0;
+  box-shadow: 5 px 10 px 15 px -5px rgba(231, 230, 230, 0.5);
+}
+
+.team-title h5 {
+  font-size: 24px;
+  color: #fff;
+}
+.team-title h6 {
+  font-size: 16px;
+}
